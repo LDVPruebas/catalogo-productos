@@ -69,6 +69,13 @@
       "descripcion": "Incluye puertos HDMI 4K, 3x USB 3.0, lector de tarjetas SD y puerto PD 100W.",
       "precio": "$48.00",
       "imagen": "https://picsum.photos/seed/p10/400/300"
+    },
+    {
+      "id": "11",
+      "titulo": "nuevo producto",
+      "descripcion": "Este es el mejor producto",
+      "precio": "5000",
+      "imagen": "/images/uploads/01.jpg"
     }
   ]
 }
